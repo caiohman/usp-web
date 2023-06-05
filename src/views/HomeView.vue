@@ -22,14 +22,14 @@
                         Trabalho 1
                     </div>
                     <div class="profile-container">
-                        <img class="profile-image" :src="fellipeUrl" alt="Descrição da imagem" />
+                        <img class="profile-image" :src="caioUrl" alt="Descrição da imagem" />
                         <div>
-                            <div class="text-caption">Fellipe Tripovichy Andrade</div>
-                            <div class="text-caption">9850332</div>
+                            <div class="text-caption">Caio Ohman Balthazar Gaudencio</div>
+                            <div class="text-caption">10415227</div>
                         </div>
                     </div>
                     <div class="profile-container">
-                        <img class="profile-image" :src="caioUrl" alt="Descrição da imagem" />
+                        <img class="profile-image" :src="fellipeUrl" alt="Descrição da imagem" />
                         <div>
                             <div class="text-caption">Fellipe Tripovichy Andrade</div>
                             <div class="text-caption">9850332</div>
